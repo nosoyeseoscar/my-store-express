@@ -1,0 +1,7 @@
+post http://localhost:3000/api/v1/products
+
+{
+  "name": "producto nuevo",
+  "price": 1200,
+  "image": "http://placeimg.com/640/480"
+}
