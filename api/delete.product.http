@@ -1,0 +1,5 @@
+DELETE http://localhost:3000/api/v1/products/1212
+
+{
+  "name": "new Product patch"
+}
