@@ -1,4 +1,5 @@
-post http://localhost:3000/api/v1/products
+POST http://localhost:3000/api/v1/products HTTP/1.1
+content-type: application/json
 
 {
   "name": "producto nuevo",

@@ -1,4 +1,5 @@
-PATCH  http://localhost:3000/api/v1/products/1212
+PATCH http://localhost:3000/api/v1/products/9eeed888-e649-4c37-93ea-3e78e743305d HTTP/1.1
+content-type: application/json
 
 {
   "name": "new Product patch"
