@@ -3,6 +3,6 @@ content-type: application/json
 
 {
   "name": "producto nuevo",
-  "price": 1200,
+  "price": 1300,
   "image": "http://placeimg.com/640/480"
 }
