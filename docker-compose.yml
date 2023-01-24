@@ -9,7 +9,7 @@ services:
       POSTGRES_USER: ${DB_USER}
       POSTGRES_PASSWORD: ${DB_PASSWORD}
     volumes:
-      - ./db:/var/lib/postgresql/data
+      - ./postgres_data:/var/lib/postgresql/data
 
   pgadmin:
     image: dpage/pgadmin4
