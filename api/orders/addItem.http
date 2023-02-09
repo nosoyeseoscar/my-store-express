@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/v1/orders/add-item HTTP/1.1
+content-type: application/json
+
+{
+  "orderId": 1,
+  "productId": 2,
+  "amount": 2
+}

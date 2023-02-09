@@ -2,8 +2,8 @@ POST http://localhost:3000/api/v1/products HTTP/1.1
 content-type: application/json
 
 {
-  "name": "producto 2",
-  "price": 1300,
+  "name": "producto11",
+  "price": 14000,
   "description": "asasasasas asasasa sasasasa",
   "categoryId": 1,
   "image": "http://placeimg.com/640/480"
